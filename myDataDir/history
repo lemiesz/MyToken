@@ -1,0 +1,24 @@
+eth.coinbase
+eth.getBalance(coinbase)
+eth.getBalance(eth.coinbase)
+eth.personal.accounts
+web3.eth.accounts
+eth.coinbase = web3.eth.accounts[2]
+eth.getBalance(eth.coinbase)
+var addr1 = "0x51e227f19e3f5640aa2867c2e9c7c88709b17172"
+eth.getBalance(eth.addr1)
+eth.getBalance(addr1)
+miner.start()
+miner.stop()
+eth.getBalance(addr1)
+eth.getBalance(eth.coinbase)
+miner.start()
+personal.accounts
+eth.coinbase
+eth.getBalance(eth.coinbase)
+ls
+eth.coinbase
+eth.getBalance(eth.coinbase)
+eth.accounts.create()
+eth.getBalance(eth.coinbase)
+personal.createAccount("1234")

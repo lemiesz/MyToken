@@ -1,0 +1,20 @@
+admin.addPeer("enode://262c9db6214947099f7aa45552b350ffa17a210a072accdeaefd6ded250aa4fe7bcf69ba715c5ef3602ac2993c014e8b1bcf4dd7756cd9b5e69eb9b27da1eeee@[::]:30303")
+admin.peers
+net.peerCount
+web3.accounts
+web3
+web3.getAccounts()\
+web3.getAccounts()
+eth.accounts
+eth.newAccounts("1234")
+eth.newAccount("1234")
+miner.start()
+miner.stop)
+miner.stop()
+eth.coinbase
+eth.getBalance(eth.coinbase)
+var account2 = "0x26dfc56aa1fde36df92c7fd372944dba46977f8a"
+eth.getBalance(account2)
+eth..getBalance(account2)
+eth.getBalance(account2)
+miner.stop()
